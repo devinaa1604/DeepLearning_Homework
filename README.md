@@ -32,8 +32,6 @@ In one notebook I fit the data using the FNG values. In the other one, I fit the
 
 Finally, I use the testing data to evaluate each model and compare the performance and answer questions such as:
 
-> Which model has a lower loss?
-> Which model tracks the actual values better over time?
-> Which window size works best for the model?
-
-- - -
+- Which model has a lower loss?
+- Which model tracks the actual values better over time?
+- Which window size works best for the model?
