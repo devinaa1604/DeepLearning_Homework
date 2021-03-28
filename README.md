@@ -10,8 +10,7 @@ Steps:
 1. Prepare the data for training and testing
 2. Build and train custom LSTM RNNs
 3. Evaluate the performance of each model
-
-- - -
+-------
 
 ## Steps
 
